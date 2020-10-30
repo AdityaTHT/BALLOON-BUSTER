@@ -1,2 +1,2 @@
 # BALLOON-BUSTER
- PRESS THE SPace key and pop the balloon
+ PRESS THE Space key and pop the balloon
